@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.coditas.artownhall",
+               "sha256_cert_fingerprints": ["B6:14:67:66:DB:D1:F2:80:78:3E:DA:63:21:44:7C:80:2C:19:DA:31:EF:2E:F5:D4:5B:E7:DB:B1:C1:8C:F4:45"] }
+}]
