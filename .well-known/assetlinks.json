@@ -1,5 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.coditas.artownhall",
-               "sha256_cert_fingerprints": ["B6:14:67:66:DB:D1:F2:80:78:3E:DA:63:21:44:7C:80:2C:19:DA:31:EF:2E:F5:D4:5B:E7:DB:B1:C1:8C:F4:45"] }
-}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.codexar.meetcbn",
+      "sha256_cert_fingerprints": [
+        "19:D2:D3:44:33:AD:3E:97:CD:0B:46:02:B0:7F:6B:55:3C:FF:C6:2A:2A:8F:85:1F:CA:53:B4:81:76:04:18:27"
+      ]
+    }
+  }
+]
